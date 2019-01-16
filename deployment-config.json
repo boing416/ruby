@@ -1,0 +1,9 @@
+{
+    "type": "sftp",
+    "host": "64.188.7.154",
+    "username": "root",
+    "password": "W4fp8Pu13mBXMtT",
+    "port": 22,
+    "remotePath": "/var/www/html/site2/public_html",
+    "uploadOnSave": true 
+}
